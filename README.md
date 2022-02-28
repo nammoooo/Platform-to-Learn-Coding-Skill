@@ -12,7 +12,7 @@
 - [Codecademy]() - It offers free and paid courses on a wide range of programming subjects.
 - [Codeasy]() - Designed for those with no programming experience, using an adventure story about saving the world from a machine invasion.
 - [Code Avengers]() - A primarily paid platform, but it also offers free courses for learning to code.
-- [Dash by General Assembly] ()-  Coding bootcamp and digital learning platform. With this site, users can learn to code for free by creating basic online projects on   their web browser.
+- [Dash by General Assembly]()-  Coding bootcamp and digital learning platform. With this site, users can learn to code for free by creating basic online projects on   their web browser.
 - [Edabit]() - This free online learning platform uses a hands-on approach to help people learn to code.
 - [freeCodeCamp]() - One of the most trusted platforms to learn to code for free
 - [Google Developers]() - Help users build applications or improve their web projects using Google’s technology.
@@ -28,8 +28,8 @@ whether you are a fresh college graduate or a working professional.
 - [Spoj]() - allows advanced users to organize contests under their own rules and a forum where programmers can discuss how to solve a particular problem.
 - [Topcoder]() - An open global community of designers, developers, data scientists, and competitive programmers.
 - [Upskill]() - A freemium coding bootcamp known for its beginner-friendly video lectures, make complex programming concepts much easier to understand by using jargon-less and straightforward language.
-- [VisuAlgo]()– Learn data structures and algorithms through dynamic interactive visualizations (visualization component), and an automated assessment system (training component)
-- [W3Schools]()- Offers some of the best resources for developers to learn content for free.
+- [VisuAlgo]() – Learn data structures and algorithms through dynamic interactive visualizations (visualization component), and an automated assessment system (training component)
+- [W3Schools]() - Offers some of the best resources for developers to learn content for free.
 
 
 
