@@ -12,18 +12,18 @@
 - [Codecademy](https://www.codecademy.com/) - It offers free and paid courses on a wide range of programming subjects.
 - [Codeasy](https://codeasy.net/) - Designed for those with no programming experience, using an adventure story about saving the world from a machine invasion.
 - [Code Avengers](https://www.codeavengers.com/) - A primarily paid platform, but it also offers free courses for learning to code.
-- [Dash by General Assembly]()-  Coding bootcamp and digital learning platform. With this site, users can learn to code for free by creating basic online projects on   their web browser.
-- [Edabit]() - This free online learning platform uses a hands-on approach to help people learn to code.
-- [freeCodeCamp]() - One of the most trusted platforms to learn to code for free
-- [Google Developers]() - Help users build applications or improve their web projects using Google’s technology.
-- [GeeksforGeeks]() - Platforms for free content on learning about numerous programming languages and other coding-related topics.
-- [Hackr.io]() - 
-- [HackerRank]() - Solve code challenges to prepare for programming interviews.
-- [HackerEarth]() -  Helps organisations with their technical hiring needs, technical skill assessment and remote video interviewing.
-- [InterviewBit]() - A platform to learn skills that you need for technology jobs.
+- [Dash by General Assembly](https://dash.generalassemb.ly/)-  Coding bootcamp and digital learning platform. With this site, users can learn to code for free by creating basic online projects on   their web browser.
+- [Edabit](http://edabit.com/) - This free online learning platform uses a hands-on approach to help people learn to code.
+- [freeCodeCamp](https://www.freecodecamp.org/) - One of the most trusted platforms to learn to code for free
+- [Google Developers](https://developers.google.com/training) - Help users build applications or improve their web projects using Google’s technology.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - Platforms for free content on learning about numerous programming languages and other coding-related topics.
+- [Hackr.io](http://hackr.io/) - Aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
+- [HackerRank](https://www.hackerrank.com/) - Solve code challenges to prepare for programming interviews.
+- [HackerEarth](http://hackerearth.com/) -  Helps organisations with their technical hiring needs, technical skill assessment and remote video interviewing.
+- [InterviewBit](http://www.interviewbit.com/) - A platform to learn skills that you need for technology jobs.
 whether you are a fresh college graduate or a working professional.
-- [LeetCode]() - the best platform to enhance your skills, expand your knowledge and prepare for technical interviews.
-- [ProjectEuler] ()– A dedicated to a series of computational problems intended to be solved with computer programs. 
+- [LeetCode](https://leetcode.com/) - the best platform to enhance your skills, expand your knowledge and prepare for technical interviews.
+- [ProjectEuler](https://projecteuler.net/) – A dedicated to a series of computational problems intended to be solved with computer programs. 
 - [Pluralsight]() - A primarily premium platform that offers free programming courses and tutorials.
 - [Spoj]() - allows advanced users to organize contests under their own rules and a forum where programmers can discuss how to solve a particular problem.
 - [Topcoder]() - An open global community of designers, developers, data scientists, and competitive programmers.
