@@ -24,12 +24,12 @@
 whether you are a fresh college graduate or a working professional.
 - [LeetCode](https://leetcode.com/) - the best platform to enhance your skills, expand your knowledge and prepare for technical interviews.
 - [ProjectEuler](https://projecteuler.net/) – A dedicated to a series of computational problems intended to be solved with computer programs. 
-- [Pluralsight]() - A primarily premium platform that offers free programming courses and tutorials.
-- [Spoj]() - allows advanced users to organize contests under their own rules and a forum where programmers can discuss how to solve a particular problem.
-- [Topcoder]() - An open global community of designers, developers, data scientists, and competitive programmers.
-- [Upskill]() - A freemium coding bootcamp known for its beginner-friendly video lectures, make complex programming concepts much easier to understand by using jargon-less and straightforward language.
-- [VisuAlgo]() – Learn data structures and algorithms through dynamic interactive visualizations (visualization component), and an automated assessment system (training component)
-- [W3Schools]() - Offers some of the best resources for developers to learn content for free.
+- [Pluralsight](https://www.pluralsight.com/product/skills/individuals) - A primarily premium platform that offers free programming courses and tutorials.
+- [Spoj](https://www.spoj.com/) - allows advanced users to organize contests under their own rules and a forum where programmers can discuss how to solve a particular problem.
+- [Topcoder](http://www.topcoder.com/) - An open global community of designers, developers, data scientists, and competitive programmers.
+- [Upskill](https://upskillcourses.com/) - A freemium coding bootcamp known for its beginner-friendly video lectures, make complex programming concepts much easier to understand by using jargon-less and straightforward language.
+- [VisuAlgo](https://visualgo.net/en) – Learn data structures and algorithms through dynamic interactive visualizations (visualization component), and an automated assessment system (training component)
+- [W3Schools](https://www.w3schools.com/) - Offers some of the best resources for developers to learn content for free.
 
 
 
